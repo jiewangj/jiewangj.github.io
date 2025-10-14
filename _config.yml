@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Jie - Homepage"
 title_separator          : "-"
 name                     : &name "Jie Wang"
-description              : &description "Graduating PHD Student of Computing Science at the University of Glasgow"
+description              : &description ""
 url                      : https://jiewangj.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "https://scholar.google.co.uk/citations?user=dK1hORsAAAAJ" # the subpath of your site, e.g. "/blog"
 repository               : "https://jiewangj.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Jie Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Graduating PHD Student of Computing Science at the University of Glasgow"
+  location         : "Glasgow"
+  employer         : "University of Glasgow"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "j.wang.9@research.gla.ac.uk" 
 
   # Academic websites
   academia         : # URL
