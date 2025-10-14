@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computing Science at the [University of Glasgow](https://www.gla.ac.uk/), supervised by [Prof. Joemon M. Jose](https://www.dcs.gla.ac.uk/~joemon/). My research focuses on **AI Agent & Large Language Models**, with particular interests in **Reinforcement Learning**, **Personalization**, and **Multi-modal Recommendation & Information Retrieval**.
+I am a Ph.D. candidate in Computing Science at the [University of Glasgow](https://www.gla.ac.uk/), supervised by [Prof. Joemon M. Jose](https://www.dcs.gla.ac.uk/~joemon/). My research focuses on **AI Agent & Large Language Models**, with particular interests in **Reinforcement Learning**, **Personalization**, and **Multi-modal Recommendation & Information Retrieval**. I completed research internships at Tencent, Amazon before.
 
-I have published 14+ papers in top-tier conferences and journals, including **SIGIR**, **CIKM**, **WSDM**, **ECIR**, **IEEE TKDE**, and **IEEE TPAMI**. In summer 2025, I will join **Amazon** as an Applied Scientist Intern in Seattle.
+I have published 14+ papers in top-tier conferences and journals, including **SIGIR**, **CIKM**, **WSDM**, **ECIR**, **IEEE TKDE**, and **IEEE TPAMI**. 
 
 Research Interests
 ======
@@ -22,7 +22,7 @@ My research lies at the intersection of artificial intelligence and information 
 
 Recent News
 ======
-- **[Oct 2025]** Starting as Applied Scientist Intern at Amazon, Seattle
+- **[Jul 2025]** Starting as Applied Scientist Intern at Amazon, Seattle
 - **[Jan 2025]** One paper accepted to WSDM 2025
 - **[Aug 2024]** Two papers accepted to CIKM 2024 and SIGIR 2024
 - **[Feb 2024]** One paper accepted to ECIR 2024
