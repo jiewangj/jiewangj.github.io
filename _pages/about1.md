@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about-backup/  
 title: "Introduction"
 author_profile: true
 redirect_from: 
