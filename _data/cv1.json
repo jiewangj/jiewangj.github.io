@@ -1,152 +1,283 @@
 {
   "basics": {
     "name": "Jie Wang",
+    "label": "Ph.D. Candidate in Computing Science",
+    "image": "",
     "email": "j.wang.9@research.gla.ac.uk",
     "phone": "",
-    "website": "https://jiewangj.github.io",
-    "summary": "Currently graduating PHD Student of Computing Science at the University of Glasgow",
+    "url": "https://jiewangj.github.io",
+    "summary": "Ph.D. candidate at the University of Glasgow, supervised by Prof. Joemon M. Jose. My research focuses on AI Agent & Large Language Models, with expertise in Reinforcement Learning, Personalization, and Multi-modal Recommendation & Information Retrieval. I have published 14+ papers in top-tier venues including SIGIR, CIKM, WSDM, TKDE, and ECIR.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Glasgow",
       "countryCode": "UK",
-      "region": ""
+      "region": "Scotland"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.co.uk/citations?user=dK1hORsAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Jie Wang",
+        "url": "https://scholar.google.com/citations?user=dK1hORsAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "jiewangj",
+        "url": "https://github.com/jiewangj"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Amazon",
+      "position": "Applied Scientist Intern",
+      "location": "Seattle, WA, USA",
+      "startDate": "2025-07",
+      "endDate": "2025-10",
+      "summary": "Applied Scientist Intern working on recommendation systems and machine learning applications.",
+      "highlights": []
+    },
+    {
+      "name": "University of Glasgow",
+      "position": "Teaching Assistant",
+      "location": "Glasgow, UK",
+      "startDate": "2022-12",
+      "endDate": "2024-09",
+      "summary": "Teaching assistant for multiple computing science courses at undergraduate and postgraduate levels.",
+      "highlights": [
+        "Master Thesis Supervision (2023-24)",
+        "COMPSCI2001 Introduction to Object-Oriented Programming (2023-24)",
+        "COMPSCI1018 Computing Science 1S - Computing Systems (2022-24)",
+        "COMPSCI4077 Web Science, MSc Level (2022-23)"
+      ]
+    },
+    {
+      "name": "Tencent",
+      "position": "Research Intern",
+      "location": "China",
+      "startDate": "2021-12",
+      "endDate": "2022-05",
+      "summary": "Research intern working on recommendation systems and machine learning algorithms.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "University of Glasgow",
-      "area": "Ph.D in Computing Science",
-      "studyType": "",
-      "startDate": "2021",
-      "endDate": "2025",
-      "gpa": null,
+      "location": "Glasgow, UK",
+      "url": "https://www.gla.ac.uk/",
+      "area": "Computing Science",
+      "studyType": "Ph.D.",
+      "startDate": "2021-10",
+      "endDate": "2026-03",
+      "score": "",
+      "courses": [],
+      "summary": "Supervisor: Prof. Joemon M. Jose. Research focus on AI Agent & LLMs, Reinforcement Learning, Personalization, Multi-modal Recommendation & Information Retrieval."
+    },
+    {
+      "institution": "Xi'an Jiaotong University",
+      "location": "Xi'an, China",
+      "url": "http://en.xjtu.edu.cn/",
+      "area": "Software Engineering",
+      "studyType": "M.S.",
+      "startDate": "2018-09",
+      "endDate": "2021-06",
+      "score": "",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Dalian University of Technology",
+      "location": "Dalian, China",
+      "url": "https://en.dlut.edu.cn/",
+      "area": "Software Engineering",
+      "studyType": "B.S.",
+      "startDate": "2014-09",
+      "endDate": "2018-06",
+      "score": "",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "awards": [
+    {
+      "title": "Excellent Graduate",
+      "date": "2021",
+      "awarder": "Xi'an Jiaotong University",
+      "summary": ""
+    },
+    {
+      "title": "Postgraduate Scholarship",
+      "date": "2018-2020",
+      "awarder": "Xi'an Jiaotong University",
+      "summary": ""
+    },
+    {
+      "title": "Undergraduate Scholarship",
+      "date": "2015-2016",
+      "awarder": "Dalian University of Technology",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Query Decomposition Filtering for Zero-shot Composed Video Retrieval",
+      "publisher": "Under Review",
+      "releaseDate": "2025",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "summary": "Jie Wang, Alexandros Karatzoglou, Ioannis Arapakis, Yabin Wang, Joemon Jose"
+    },
+    {
+      "name": "PDiT-GIM: A Two-Stage Diffusion Framework for Personalized Preference Generation and Decoding",
+      "publisher": "Under Review",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Jie Wang, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose"
+    },
+    {
+      "name": "Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling",
+      "publisher": "SIGIR 2024",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Jie Wang, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (Full Paper)"
+    },
+    {
+      "name": "Sparks of Surprise: Multi-objective Recommendations with Hierarchical Decision Transformers for Diversity, Novelty, and Serendipity",
+      "publisher": "CIKM 2024",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Jie Wang, Alexandros Karatzoglou, Ioannis Arapakis, Xin Xin, Xuri Ge, Joemon Jose. 33rd ACM International Conference on Information and Knowledge Management (Full Paper)"
+    },
+    {
+      "name": "Large Language Model driven Policy Exploration for Recommender Systems",
+      "publisher": "WSDM 2025",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Jie Wang, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose. The 18th ACM International Conference on Web Search and Data Mining (Full Paper)"
+    },
+    {
+      "name": "Beyond Accuracy: Decision Transformers for Reward-driven Multi-objective Recommendations",
+      "publisher": "IEEE TKDE",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Jie Wang, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose, Xuri Ge. IEEE Transactions on Knowledge and Data Engineering"
+    },
+    {
+      "name": "TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback",
+      "publisher": "APWebWAIM 2024",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Jie Wang, Fajie Yuan, Mingyue Cheng, Joemon M. Jose, Chenyun Yu, Beibei Kong, Zhijin Wang, Bo Hu, Zang Li. The 8th APWeb-WAIM joint international conference on Web and Big Data (Full Paper)"
+    },
+    {
+      "name": "Empowering Legal Citation Recommendation via Efficient Instruction-Tuning of Pre-trained Language Models",
+      "publisher": "ECIR 2024",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Jie Wang, Kanha Bansal, Ioannis Arapakis, Xuri Ge, Joemon M. Jose. 46th European Conference on Information Retrieval (Full Paper)"
+    },
+    {
+      "name": "IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT",
+      "publisher": "SIGIR 2024",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Junchen Fu, Xuri Ge, Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Jie Wang, Joemon M. Jose. The 47th International ACM SIGIR Conference (Full Paper)"
+    },
+    {
+      "name": "Capturing the Spectrum of Social Media Conflict: A Novel Multi-objective Classification Model",
+      "publisher": "ICTIR 2024",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Oliver Warke, Joemon M. Jose, Jan Breitsohl, Jie Wang. The 10th ACM SIGIR / The 14th International Conference on the Theory of Information Retrieval (Full Paper)"
+    },
+    {
+      "name": "3SHNet: Boosting Image-Sentence Retrieval via Visual Semantic-Spatial Self-Highlighting",
+      "publisher": "Information Processing & Management",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Xuri Ge, Songpei Xu, Fuhai Chen, Jie Wang, Guoxin Wang, Shan An, Joemon M. Jose"
+    },
+    {
+      "name": "Exploring adapter-based transfer learning for recommender systems: Empirical studies and practical insights",
+      "publisher": "WSDM 2024",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Junchen Fu, Fajie Yuan, Yu Song, Zheng Yuan, Mingyue Cheng, Shenghui Cheng, Jiaqi Zhang, Jie Wang, Yunzhu Pan. The 17th ACM International Conference on Web Search and Data Mining (Full Paper)"
+    },
+    {
+      "name": "NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation",
+      "publisher": "IEEE TPAMI",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Jiaqi Zhang, Yu Cheng, Yongxin Ni, Yunzhu Pan, Zheng Yuan, Junchen Fu, Youhua Li, Jie Wang, Fajie Yuan. IEEE Transactions on Pattern Analysis and Machine Intelligence (Special Issue)"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Expert",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "name": "Machine Learning Frameworks",
+      "level": "Expert",
+      "keywords": [
+        "PyTorch"
+      ]
+    },
+    {
+      "name": "Research Areas",
+      "level": "Expert",
+      "keywords": [
+        "Large Language Models",
+        "Reinforcement Learning",
+        "Recommender Systems",
+        "Information Retrieval",
+        "Multi-modal Learning",
+        "Personalization"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI Agent & Large Language Models",
+      "keywords": [
+        "Reinforcement Learning",
+        "Personalization",
+        "Multi-modal Recommendation",
+        "Information Retrieval"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "volunteer": [
+    {
+      "organization": "Academic Community",
+      "position": "Peer Reviewer",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Reviewer for top-tier conferences and journals",
+      "highlights": [
+        "WWW",
+        "SIGIR",
+        "CIKM",
+        "WSDM",
+        "PAMI",
+        "ICLR",
+        "AAAI"
+      ]
     }
   ]
 }
