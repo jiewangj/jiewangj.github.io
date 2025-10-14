@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computing Science at the [University of Glasgow](https://www.gla.ac.uk/), supervised by [Prof. Joemon M. Jose](https://www.dcs.gla.ac.uk/~joemon/). My research focuses on **AI Agent & Large Language Models**, with particular interests in **Reinforcement Learning**, **Personalization**, and **Multi-modal Recommendation & Information Retrieval**. I completed research internships at Tencent, Amazon before.
+I am a Ph.D. candidate in Computing Science at the [University of Glasgow](https://www.gla.ac.uk/), supervised by [Prof. Joemon M. Jose](https://www.dcs.gla.ac.uk/~joemon/). My research focuses on **AI Agent & Large Language Models**, with particular interests in **Reinforcement Learning**, **Personalization**, and **Multi-modal Recommendation & Information Retrieval**. I completed research internships at Tencent and Amazon before.
 
-I have published 14+ papers in top-tier conferences and journals, including **SIGIR**, **CIKM**, **WSDM**, **ECIR**, **IEEE TKDE**, and **IEEE TPAMI**. 
+I have published 14+ papers in top-tier conferences and journals, including SIGIR, CIKM, WSDM, ECIR, IEEE TKDE, and IEEE TPAMI. 
 
 Research Interests
 ======
@@ -74,17 +74,11 @@ Education
   
 - **B.S. in Software Engineering**, Dalian University of Technology, China (2014 - 2018)
 
-Honors & Awards
-======
-- **Excellent Graduate**, Xi'an Jiaotong University (2021)
-- **Postgraduate Scholarship**, Xi'an Jiaotong University (2018-2020)
-- **Undergraduate Scholarship**, Dalian University of Technology (2015-2016)
-
 Academic Service
 ======
 **Program Committee Member & Reviewer:**
-- Conferences: WWW, SIGIR, CIKM, WSDM, ICLR, AAAI, ECIR
-- Journals: IEEE TPAMI, ACM TOIS
+- Conferences: WWW, SIGIR, CIKM, WSDM, ICLR, AAAI, ECIR ...
+- Journals: IEEE TPAMI, ACM TOIS, IPM ...
 
 **Teaching:**
 - Master Thesis Supervision, University of Glasgow (2023-24)
