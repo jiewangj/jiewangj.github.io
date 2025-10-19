@@ -16,7 +16,6 @@ Education
   * Research Focus: AI Agent & LLMs, Reinforcement Learning, Personalization, Multi-modal Recommendation & Information Retrieval
   
 * **M.S. in Software Engineering**, Xi'an Jiaotong University, China, 2018-2021
-  %* Excellent Graduate Award
   
 * **B.S. in Software Engineering**, Dalian University of Technology, China, 2014-2018
 
