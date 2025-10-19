@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Computing Science**, University of Glasgow, UK, 2021-2026 (expected)
+* **Ph.D. in Computing Science**, University of Glasgow, UK, 2021-2025 (expected)
   * Supervisor: Prof. Joemon M. Jose
   * Research Focus: AI Agent & LLMs, Reinforcement Learning, Personalization, Multi-modal Recommendation & Information Retrieval
   
@@ -109,8 +109,8 @@ Teaching
 Service and Leadership
 ======
 * **Program Committee Member & Reviewer** for top-tier conferences and journals:
-  * Conferences: WWW, SIGIR, CIKM, WSDM, ICLR, AAAI, ECIR
-  * Journals: IEEE TPAMI, ACM TOIS
+  * Conferences: ICLR, WWW, SIGIR, CIKM, WSDM, AAAI, ECIR, et al.
+  * Journals: IEEE TKDE, IEEE TPAMI, ACM TOIS, IPM, et al.
   
 * **Active Contributor** to the academic community through paper reviews and conference participation
 {% comment %}
