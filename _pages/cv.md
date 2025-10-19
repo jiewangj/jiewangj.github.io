@@ -74,7 +74,7 @@ Skills
 * **Languages**
   * English (Fluent)
   * Chinese (Native)
-
+{% comment %}
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -84,7 +84,7 @@ Publications
 **Selected Publications:**
 * 14+ papers published in top-tier venues including SIGIR, CIKM, WSDM, ECIR, IEEE TKDE, IEEE TPAMI
 * Research areas: LLM-based recommendation, reinforcement learning, multi-objective optimization, personalization
-{% comment %}
+
   
 Talks
 ======
