@@ -84,13 +84,16 @@ Publications
 **Selected Publications:**
 * 14+ papers published in top-tier venues including SIGIR, CIKM, WSDM, ECIR, IEEE TKDE, IEEE TPAMI
 * Research areas: LLM-based recommendation, reinforcement learning, multi-objective optimization, personalization
+{% comment %}
   
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+{% endcomment %}
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -110,7 +113,7 @@ Service and Leadership
   * Journals: IEEE TPAMI, ACM TOIS
   
 * **Active Contributor** to the academic community through paper reviews and conference participation
-
+{% comment %}
 Professional Memberships
 ======
 * ACM (Association for Computing Machinery)
@@ -120,6 +123,7 @@ References
 ======
 Available upon request
 
+{% endcomment %}
 ---
 
 [Download PDF Version](/files/cv.pdf)
