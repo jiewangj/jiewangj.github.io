@@ -96,9 +96,11 @@ Talks
 
 Teaching
 ======
+{% comment %}
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endcomment %}
 
 **Teaching Experience at University of Glasgow:**
 * **Master Thesis Supervision** (2023-24)
