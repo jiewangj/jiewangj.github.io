@@ -11,41 +11,80 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Ph.D. in Computing Science**, University of Glasgow, UK, 2021-2026 (expected)
+  * Supervisor: Prof. Joemon M. Jose
+  * Research Focus: AI Agent & LLMs, Reinforcement Learning, Personalization, Multi-modal Recommendation & Information Retrieval
   
+* **M.S. in Software Engineering**, Xi'an Jiaotong University, China, 2018-2021
+  * Excellent Graduate Award
+  
+* **B.S. in Software Engineering**, Dalian University of Technology, China, 2014-2018
+
+Research Interests
+======
+* AI Agent & Large Language Models
+* Reinforcement Learning for Recommender Systems
+* Personalization and User Modeling
+* Multi-modal Recommendation & Information Retrieval
+* Decision Transformers and Multi-objective Optimization
+
+Work Experience
+======
+* **Summer 2025: Applied Scientist Intern**
+  * Amazon, Seattle, USA
+  * Duration: July 2025 - October 2025
+  * Focus: Recommendation systems and machine learning applications
+
+* **Dec 2022 - Sep 2024: Teaching Assistant**
+  * University of Glasgow, UK
+  * Duties included: 
+    * Master thesis supervision (2023-24)
+    * Teaching support for undergraduate and postgraduate courses
+    * Student mentoring and assessment
+  * Courses: Object-Oriented Programming, Computing Systems, Web Science
+
+* **Dec 2021 - May 2022: Research Intern**
+  * Tencent
+  * Duties included: Research on recommendation systems and machine learning algorithms
+  * Projects: Contributed to large-scale recommender systems research
+
+Honors & Awards
+======
+* **Excellent Graduate**, Xi'an Jiaotong University, 2021
+* **Postgraduate Scholarship**, Xi'an Jiaotong University, 2018-2020
+* **Undergraduate Scholarship**, Dalian University of Technology, 2015-2016
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**
+  * Python (Expert)
+  * Proficient in machine learning and deep learning frameworks
+  
+* **Machine Learning & AI**
+  * PyTorch (Expert)
+  * Large Language Models
+  * Reinforcement Learning
+  * Multi-modal Learning
+  
+* **Research Skills**
+  * Recommender Systems
+  * Information Retrieval
+  * Experimental Design
+  * Academic Writing
+  
+* **Languages**
+  * English (Fluent)
+  * Chinese (Native)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+**Selected Publications:**
+* 14+ papers published in top-tier venues including SIGIR, CIKM, WSDM, ECIR, IEEE TKDE, IEEE TPAMI
+* Research areas: LLM-based recommendation, reinforcement learning, multi-objective optimization, personalization
   
 Talks
 ======
@@ -58,7 +97,30 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+**Teaching Experience at University of Glasgow:**
+* **Master Thesis Supervision** (2023-24)
+* **COMPSCI2001**: Introduction to Object-Oriented Programming, Level 2 (2023-24)
+* **COMPSCI1018**: Computing Science 1S - Computing Systems, Level 1 (2022-24)
+* **COMPSCI4077**: Web Science, MSc Level (2022-23)
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Program Committee Member & Reviewer** for top-tier conferences and journals:
+  * Conferences: WWW, SIGIR, CIKM, WSDM, ICLR, AAAI, ECIR
+  * Journals: IEEE TPAMI, ACM TOIS
+  
+* **Active Contributor** to the academic community through paper reviews and conference participation
+
+Professional Memberships
+======
+* ACM (Association for Computing Machinery)
+* IEEE (Institute of Electrical and Electronics Engineers)
+
+References
+======
+Available upon request
+
+---
+
+[Download PDF Version](/files/cv.pdf)
