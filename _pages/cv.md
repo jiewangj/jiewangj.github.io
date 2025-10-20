@@ -32,20 +32,18 @@ Work Experience
 * **Summer 2025: Applied Scientist Intern**
   * Amazon, Seattle, USA
   * Duration: July 2025 - October 2025
-  * Focus: Recommendation systems and machine learning applications
-
+  * Project: Personalized Video Moment Recommendation
 * **Dec 2022 - Sep 2024: Teaching Assistant**
   * University of Glasgow, UK
   * Duties included: 
     * Master thesis supervision (2023-24)
     * Teaching support for undergraduate and postgraduate courses
     * Student mentoring and assessment
-  * Courses: Object-Oriented Programming, Computing Systems, Web Science
+  * Courses: Artificial Intelligence, Machine Learning, Computing Systems, Web Science
 
 * **Dec 2021 - May 2022: Research Intern**
   * Tencent
-  * Duties included: Research on recommendation systems and machine learning algorithms
-  * Projects: Contributed to large-scale recommender systems research
+  * Project: Transferable Recommendation via Mixture-of-Modality User Feedback
 
 Honors & Awards
 ======
