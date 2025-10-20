@@ -34,7 +34,7 @@
       "location": "Seattle, WA, USA",
       "startDate": "2025-07",
       "endDate": "2025-10",
-      "summary": "Applied Scientist Intern working on recommendation systems and machine learning applications.",
+      "summary": "Applied Scientist Intern working on personalized video moment recommendation systems.",
       "highlights": []
     },
     {
@@ -57,7 +57,7 @@
       "location": "China",
       "startDate": "2021-12",
       "endDate": "2022-05",
-      "summary": "Research intern working on recommendation systems and machine learning algorithms.",
+      "summary": "Research intern working on transferable recommender system via mixture of modality user feedback.",
       "highlights": []
     }
   ],
