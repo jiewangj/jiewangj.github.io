@@ -67,12 +67,16 @@ Selected Publications
 Experience
 ======
 - **Applied Scientist Intern**, Amazon, Seattle, USA (July 2025 - Oct 2025)
+  - Project: Personalized Video Moment Recommendation
+
 - **Teaching Assistant**, University of Glasgow, UK (Dec 2022 - Sep 2024)
   - Master Thesis Supervision (2023-24)
   - COMPSCI2001: Introduction to Object-Oriented Programming
   - COMPSCI1018: Computing Science 1S - Computing Systems
   - COMPSCI4077: Web Science (MSc Level)
 - **Research Intern**, Tencent (Dec 2021 - May 2022)
+  - Project: Transferable Recommendation via Mixture-of-Modality User Feedback
+
 
 Education
 ======
