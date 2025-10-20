@@ -101,4 +101,7 @@ Feel free to reach out if you're interested in collaboration or have questions a
 
 - **Email**: j.wang.9@research.gla.ac.uk
 - **Google Scholar**: [Jie Wang](https://scholar.google.com/citations?user=dK1hORsAAAAJ)
+{% comment %}
 - **GitHub**: [jiewangj](https://github.com/jiewangj)
+{% endcomment %}
+
