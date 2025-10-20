@@ -27,14 +27,6 @@ My research lies at the intersection of artificial intelligence and information 
 - **Personalization**: User preference modeling and personalized content generation
 - **Multi-modal Learning**: Cross-modal retrieval, video understanding, and multi-modal recommendation systems
 
-Recent News
-======
-- **[Jul 2025]** Starting as Applied Scientist Intern at Amazon, Seattle
-- **[Jan 2025]** One paper accepted to WSDM 2025
-- **[Aug 2024]** Two papers accepted to CIKM 2024 and SIGIR 2024
-- **[Feb 2024]** One paper accepted to ECIR 2024
-- **[Dec 2023]** One paper accepted to IEEE TKDE
-
 Selected Publications
 ======
 **Conference Papers:**
@@ -73,7 +65,15 @@ Experience
   - COMPSCI4077: Web Science (MSc Level)
 - **Research Intern**, Tencent (Dec 2021 - May 2022)
   - Project: Transferable Recommendation via Mixture-of-Modality User Feedback
-
+    
+Recent News
+======
+- **[Jul 2025]** Starting as Applied Scientist Intern at Amazon, Seattle
+- **[May 2025]** One paper accepted to IEEE TKDE
+- **[Oct 2024]** One paper accepted to WSDM 2025
+- **[2024]** Two papers accepted to CIKM 2024 and SIGIR 2024
+- **[Dec 2023]** One paper accepted to ECIR 2024
+- ...
 
 Education
 ======
