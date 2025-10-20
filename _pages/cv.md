@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Click to view/download PDF Version](/files/cv.pdf)
 
 Education
 ======
@@ -126,4 +127,4 @@ Available upon request
 {% endcomment %}
 ---
 
-[Download PDF Version](/files/cv.pdf)
+
