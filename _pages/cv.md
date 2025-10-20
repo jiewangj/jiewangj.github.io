@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click to view/download PDF Version](/files/CV.pdf)
+[Click to view/download PDF Version](https://jiewangj.github.io/files/CV.pdf)
 
 Education
 ======
