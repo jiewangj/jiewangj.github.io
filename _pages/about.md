@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computing Science at the [University of Glasgow](https://www.gla.ac.uk/), supervised by [Prof. Joemon M. Jose](https://www.dcs.gla.ac.uk/~joemon/). My research focuses on **AI Agent & Large Language Models**, with particular interests in **Reinforcement Learning**, **Personalization**, and **Multi-modal Recommendation & Information Retrieval**. I completed research internships at Tencent and Amazon before.
+I am a Ph.D. candidate in Computing Science at the [University of Glasgow](https://www.gla.ac.uk/), 
+supervised by [Prof. Joemon M. Jose](https://www.dcs.gla.ac.uk/~jj/). 
+
+My research focuses on **AI Agent & Large Language Models**, with particular interests in 
+**Reinforcement Learning**, **Personalization**, and **Multi-modal Recommendation & Information Retrieval**. 
+
+I have been working closely with [Dr. Alexandros Karatzoglou](https://scholar.google.co.uk/citations?user=j5u5iiYAAAAJ) and 
+[Dr. Ioannis Arapakis](https://scholar.google.co.uk/citations?user=iTkgXpoAAAAJ), who are expert industrial researchers, for long-term 
+collaboration and mentorship throughout my Ph.D. journey. 
+
+I completed research internships at **Tencent** and **Amazon** before.
 
 I have published 14+ papers in top-tier conferences and journals, including SIGIR, CIKM, WSDM, ECIR, IEEE TKDE, and IEEE TPAMI. 
 
