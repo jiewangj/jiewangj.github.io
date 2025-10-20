@@ -67,12 +67,12 @@ Skills
 * **Research Skills**
   * Recommender Systems
   * Information Retrieval
-  * Experimental Design
+  * User Study
   * Academic Writing
   
 * **Languages**
-  * English (Fluent)
-  * Chinese (Native)
+  * English
+  * Chinese
 {% comment %}
 Publications
 ======
@@ -107,7 +107,7 @@ Teaching
 * **COMPSCI1018**: Computing Science 1S - Computing Systems, Level 1 (2022-24)
 * **COMPSCI4077**: Web Science, MSc Level (2022-23)
 
-Service and Leadership
+Service
 ======
 * **Program Committee Member & Reviewer** for top-tier conferences and journals:
   * Conferences: ICLR, WWW, SIGIR, CIKM, WSDM, AAAI, ECIR, et al.
