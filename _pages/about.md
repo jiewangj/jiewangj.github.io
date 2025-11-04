@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="background-color: #e8f4f8; border-left: 4px solid #2196F3; padding: 12px 15px; margin-bottom: 20px; font-size: 16px; font-weight: 500; color: #1976D2;">
-📢 I am currently seeking researcher positions in both industry and academia.
+📢 I am currently seeking researcher/scientist positions in industry or academia.
 </div>
 
 I am a Ph.D. candidate in Computing Science at the [University of Glasgow](https://www.gla.ac.uk/), 
