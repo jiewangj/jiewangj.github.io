@@ -1,36 +1,55 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
+excerpt: "Selected first-author publications by Jie Wang."
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p class="section-intro">Representative first-author publications. For the complete and current record, visit <a href="https://scholar.google.com/citations?user=dK1hORsAAAAJ" target="_blank" rel="noopener">Google Scholar</a>.</p>
 
-{% include base_path %}
+<div class="paper-list">
+  <article class="paper-card">
+    <span class="paper-venue">WSDM 2025 · Full Paper</span><br>
+    <a class="paper-title" href="https://doi.org/10.1145/3701551.3703496" target="_blank" rel="noopener">Large Language Model Driven Policy Exploration for Recommender Systems</a>
+    <p class="paper-authors"><strong>Jie Wang</strong>, Alexandros Karatzoglou, Ioannis Arapakis, Joemon M. Jose</p>
+    <div class="paper-links"><a href="https://doi.org/10.1145/3701551.3703496" target="_blank" rel="noopener">Paper ↗</a></div>
+  </article>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <article class="paper-card">
+    <span class="paper-venue">IEEE TKDE 2025</span><br>
+    <a class="paper-title" href="https://doi.org/10.1109/TKDE.2025.3582506" target="_blank" rel="noopener">Beyond Accuracy: Decision Transformers for Reward-Driven Multi-Objective Recommendations</a>
+    <p class="paper-authors"><strong>Jie Wang</strong>, Alexandros Karatzoglou, Ioannis Arapakis, Joemon M. Jose, Xuri Ge</p>
+    <div class="paper-links">
+      <a href="https://doi.org/10.1109/TKDE.2025.3582506" target="_blank" rel="noopener">Paper ↗</a>
+      <a href="https://github.com/jieWANGforwork/MODT" target="_blank" rel="noopener">Code ↗</a>
+    </div>
+  </article>
 
+  <article class="paper-card">
+    <span class="paper-venue">CIKM 2024 · Full Paper</span><br>
+    <a class="paper-title" href="https://doi.org/10.1145/3627673.3679533" target="_blank" rel="noopener">Sparks of Surprise: Multi-objective Recommendations with Hierarchical Decision Transformers for Diversity, Novelty, and Serendipity</a>
+    <p class="paper-authors"><strong>Jie Wang</strong>, Alexandros Karatzoglou, Ioannis Arapakis, Xin Xin, Xuri Ge, Joemon M. Jose</p>
+    <div class="paper-links">
+      <a href="https://doi.org/10.1145/3627673.3679533" target="_blank" rel="noopener">Paper ↗</a>
+      <a href="https://github.com/jieWANGforwork/HDT" target="_blank" rel="noopener">Code ↗</a>
+    </div>
+  </article>
 
+  <article class="paper-card">
+    <span class="paper-venue">SIGIR 2024 · Full Paper</span><br>
+    <a class="paper-title" href="https://doi.org/10.1145/3626772.3657767" target="_blank" rel="noopener">Reinforcement Learning-based Recommender Systems with Large Language Models for State, Reward, and Action Modeling</a>
+    <p class="paper-authors"><strong>Jie Wang</strong>, Alexandros Karatzoglou, Ioannis Arapakis, Joemon M. Jose</p>
+    <div class="paper-links">
+      <a href="https://doi.org/10.1145/3626772.3657767" target="_blank" rel="noopener">Paper ↗</a>
+      <a href="https://github.com/jieWANGforwork/LEA" target="_blank" rel="noopener">Code ↗</a>
+    </div>
+  </article>
 
+  <article class="paper-card">
+    <span class="paper-venue">ECIR 2024 · Full Paper</span><br>
+    <a class="paper-title" href="https://doi.org/10.1007/978-3-031-56027-9_19" target="_blank" rel="noopener">Empowering Legal Citation Recommendation via Efficient Instruction-Tuning of Pre-trained Language Models</a>
+    <p class="paper-authors"><strong>Jie Wang</strong>, Kanha Bansal, Ioannis Arapakis, Xuri Ge, Joemon M. Jose</p>
+    <div class="paper-links"><a href="https://doi.org/10.1007/978-3-031-56027-9_19" target="_blank" rel="noopener">Paper ↗</a></div>
+  </article>
+</div>

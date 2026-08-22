@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-UK"
+locale                   : "en"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jie - Homepage"
+title                    : "Jie Wang"
 title_separator          : "-"
 name                     : &name "Jie Wang"
-description              : &description ""
+description              : &description "Personalized AI and recommender systems researcher working on large language models, reinforcement learning, recommendation, and multimodal retrieval."
 url                      : https://jiewangj.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiewangj/jiewangj.github.io"
@@ -25,8 +25,8 @@ author:
   avatar           : "avatar3.jpg"
   name             : "Jie Wang"
   pronun.          : "'J-yeah' with a rising tone" # example: "she/her"  
-  bio              : "Graduating PHD Student of Computing Science at the University of Glasgow"
-  location         : "Glasgow"
+  bio              : "Personalized AI & Recommender Systems Researcher"
+  location         : "Glasgow, UK"
   employer         : "University of Glasgow"
   uri              : # URL
   email            : "j.wang.9@research.gla.ac.uk" 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  #github           : "academicpages"
+  github           : "jieWANGforwork"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -121,7 +121,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # no blog feed is needed for this research profile
   path                   : # blank (default) uses feed.xml
 
 
@@ -139,14 +139,17 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "/images/avatar3.jpg"
+og_description           : *description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Jie Wang"
+  links:
+    - "https://github.com/jieWANGforwork"
+    - "https://scholar.google.com/citations?user=dK1hORsAAAAJ"
+    - "https://www.linkedin.com/in/jie-wang-a05759250/"
 
 
 # Analytics
@@ -221,7 +224,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
