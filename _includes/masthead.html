@@ -13,25 +13,12 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item desktop-nav-link"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
-            <a role="button" aria-label="Toggle color theme"><span id="theme-icon" class="theme-icon" aria-hidden="true">◐</span></a>
+            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>
         </ul>
-        <details class="mobile-nav">
-          <summary aria-label="Open navigation menu"><span></span><span></span><span></span></summary>
-          <ul>
-            {% for link in site.data.navigation.main %}
-              {% if link.url contains 'http' %}
-                {% assign mobile_domain = '' %}
-              {% else %}
-                {% assign mobile_domain = base_path %}
-              {% endif %}
-              <li><a href="{{ mobile_domain }}{{ link.url }}">{{ link.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </details>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
