@@ -35,9 +35,7 @@ Selected Publications
 **Conference Papers:**
 1. **[ViSalRec: Visual and Saliency-Informed Reward Augmentation for Sequential Recommender Systems](https://github.com/jieWANGforwork/ViSalRec)**<br>
    Georgios Koutroumpas, **Jie Wang**<sup>&#42;</sup>, Sergi Abadal, Joemon M. Jose, Ioannis Arapakis<br>
-   *CIKM 2026* (Full Paper)
-
-   <small><sup>*</sup> Equal contribution with the first author.</small>
+   *CIKM 2026* (Full Paper) <small><sup>*</sup> Equal contribution with the first author.</small>
 
 2. **[Large Language Model driven Policy Exploration for Recommender Systems](https://doi.org/10.1145/3701551.3703496)**<br>
    **Jie Wang**, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose  
