@@ -13,20 +13,19 @@ redirect_from:
 
 I am a Ph.D. candidate in Computing Science at the [University of Glasgow](https://www.gla.ac.uk/), 
 supervised by [Prof. Joemon M. Jose](https://www.dcs.gla.ac.uk/~jj/). 
-My research focuses on **AI Agent & Large Language Models**, with particular interests in 
-**Reinforcement Learning**, **Personalization**, and **Multi-modal Recommendation & Information Retrieval**. 
-I have been working closely with [Dr. Alexandros Karatzoglou](https://scholar.google.co.uk/citations?user=j5u5iiYAAAAJ) and 
-[Dr. Ioannis Arapakis](https://scholar.google.co.uk/citations?user=iTkgXpoAAAAJ), who are expert industrial researchers, for long-term 
-collaboration and mentorship throughout my Ph.D. journey. 
+My research focuses on **personalized recommender systems and information retrieval**, with particular interests in
+**Large Language Models**, **Reinforcement Learning**, and **Multi-modal Learning**.
+Throughout my Ph.D., I have worked closely with [Dr. Alexandros Karatzoglou](https://scholar.google.co.uk/citations?user=j5u5iiYAAAAJ) and
+[Dr. Ioannis Arapakis](https://scholar.google.co.uk/citations?user=iTkgXpoAAAAJ) through long-term research collaboration and mentorship.
 
-I completed research internships at **Tencent** and **Amazon** before.
+I have completed research internships at **Tencent** and **Amazon**.
 I have published 14+ papers in top-tier conferences and journals, including SIGIR, CIKM, WSDM, ECIR, IEEE TKDE, and IEEE TPAMI. 
 
 Research Interests
 ======
 My research lies at the intersection of artificial intelligence and information retrieval, with a focus on:
 
-- **Large Language Models & AI Agents**: Leveraging LLMs for recommendation and information retrieval tasks
+- **Large Language Models**: Applying LLMs to recommendation and information retrieval
 - **Reinforcement Learning**: Decision transformers, multi-objective optimization, and policy exploration for recommender systems
 - **Personalization**: User preference modeling and personalized content generation
 - **Multi-modal Learning**: Cross-modal retrieval, video understanding, and multi-modal recommendation systems
@@ -34,24 +33,28 @@ My research lies at the intersection of artificial intelligence and information 
 Selected Publications
 ======
 **Conference Papers:**
-1. **Large Language Model driven Policy Exploration for Recommender Systems**  
+1. **[ViSalRec: Visual and Saliency-Informed Reward Augmentation for Sequential Recommender Systems](https://github.com/jieWANGforwork/ViSalRec)**<br>
+   Georgios Koutroumpas, **Jie Wang**, Sergi Abadal, Joemon M. Jose, Ioannis Arapakis<br>
+   *CIKM 2026* (Full Paper)
+
+2. **[Large Language Model driven Policy Exploration for Recommender Systems](https://doi.org/10.1145/3701551.3703496)**<br>
    **Jie Wang**, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose  
    *WSDM 2025* (Full Paper)
 
-2. **Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling**  
+3. **[Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling](https://doi.org/10.1145/3626772.3657767)**<br>
    **Jie Wang**, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose  
    *SIGIR 2024* (Full Paper)
 
-3. **Sparks of Surprise: Multi-objective Recommendations with Hierarchical Decision Transformers**  
+4. **[Sparks of Surprise: Multi-objective Recommendations with Hierarchical Decision Transformers](https://doi.org/10.1145/3627673.3679533)**<br>
    **Jie Wang**, Alexandros Karatzoglou, Ioannis Arapakis, Xin Xin, Xuri Ge, Joemon Jose  
    *CIKM 2024* (Full Paper)
 
-4. **Empowering Legal Citation Recommendation via Efficient Instruction-Tuning of Pre-trained Language Models**  
+5. **[Empowering Legal Citation Recommendation via Efficient Instruction-Tuning of Pre-trained Language Models](https://doi.org/10.1007/978-3-031-56027-9_19)**<br>
    **Jie Wang**, Kanha Bansal, Ioannis Arapakis, Xuri Ge, Joemon M. Jose  
    *ECIR 2024* (Full Paper)
 
 **Journal Papers:**
-1. **Beyond Accuracy: Decision Transformers for Reward-driven Multi-objective Recommendations**  
+1. **[Beyond Accuracy: Decision Transformers for Reward-driven Multi-objective Recommendations](https://doi.org/10.1109/TKDE.2025.3582506)**<br>
    **Jie Wang**, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose, Xuri Ge  
    *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
 
