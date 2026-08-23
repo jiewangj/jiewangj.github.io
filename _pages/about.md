@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="background-color: #e8f4f8; border-left: 4px solid #2196F3; padding: 12px 15px; margin-bottom: 20px; font-size: 16px; font-weight: 500; color: #1976D2;">
-📢 I am currently seeking researcher/scientist positions in industry or academia.
+<div class="opportunity-kicker">
+  <span aria-hidden="true">📢</span>
+  <span>Open to researcher and applied scientist opportunities</span>
 </div>
 
 I am a Ph.D. candidate in Computing Science at the [University of Glasgow](https://www.gla.ac.uk/), 
@@ -106,4 +107,3 @@ Feel free to reach out if you're interested in collaboration or have questions a
 {% comment %}
 - **GitHub**: [jiewangj](https://github.com/jiewangj)
 {% endcomment %}
-

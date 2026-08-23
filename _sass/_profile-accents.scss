@@ -1,0 +1,23 @@
+/* Small profile accents that preserve the original page structure. */
+
+.opportunity-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0 0 1.1rem;
+  padding: 0.42rem 0.72rem;
+  border: 1px solid rgba(22, 105, 122, 0.24);
+  border-radius: 999px;
+  color: #0d4f5d;
+  background: #eaf5f6;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1.35;
+}
+
+html[data-theme="dark"] .opportunity-kicker {
+  border-color: rgba(117, 209, 218, 0.3);
+  color: #a3e2e7;
+  background: rgba(117, 209, 218, 0.12);
+}
