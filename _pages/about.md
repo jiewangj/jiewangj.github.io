@@ -13,6 +13,7 @@ redirect_from:
 
 I received my Ph.D. in Computing Science from the [University of Glasgow](https://www.gla.ac.uk/),
 where I was supervised by [Prof. Joemon M. Jose](https://www.dcs.gla.ac.uk/~jj/).
+My current research focuses on **multimodal feedback** and **reinforcement learning**.
 My previous research focused on **personalized recommender systems and information retrieval**, with particular interests in
 **Large Language Models**, **Reinforcement Learning**, and **Multi-modal Learning**.
 Throughout my Ph.D., I have worked closely with [Dr. Alexandros Karatzoglou](https://scholar.google.co.uk/citations?user=j5u5iiYAAAAJ) and
