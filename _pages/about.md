@@ -11,8 +11,8 @@ redirect_from:
   <span>Open to researcher and applied scientist opportunities</span>
 </div>
 
-I am a Ph.D. candidate in Computing Science at the [University of Glasgow](https://www.gla.ac.uk/), 
-supervised by [Prof. Joemon M. Jose](https://www.dcs.gla.ac.uk/~jj/). 
+I received my Ph.D. in Computing Science from the [University of Glasgow](https://www.gla.ac.uk/),
+where I was supervised by [Prof. Joemon M. Jose](https://www.dcs.gla.ac.uk/~jj/).
 My research focuses on **personalized recommender systems and information retrieval**, with particular interests in
 **Large Language Models**, **Reinforcement Learning**, and **Multi-modal Learning**.
 Throughout my Ph.D., I have worked closely with [Dr. Alexandros Karatzoglou](https://scholar.google.co.uk/citations?user=j5u5iiYAAAAJ) and
