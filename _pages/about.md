@@ -84,7 +84,7 @@ Recent News
 
 Education
 ======
-- **Ph.D. in Computing Science**, University of Glasgow, UK (2021 - 2026)  
+- **Ph.D. in Computing Science**, University of Glasgow, UK (2021 - 2025)<br>
   Supervisor: Prof. Joemon M. Jose
   
 - **M.S. in Software Engineering**, Xi'an Jiaotong University, China (2018 - 2021)  
