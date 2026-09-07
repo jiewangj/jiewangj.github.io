@@ -13,7 +13,7 @@ redirect_from:
 
 I received my Ph.D. in Computing Science from the [University of Glasgow](https://www.gla.ac.uk/),
 where I was supervised by [Prof. Joemon M. Jose](https://www.dcs.gla.ac.uk/~jj/).
-My research focuses on **personalized recommender systems and information retrieval**, with particular interests in
+My previous research focused on **personalized recommender systems and information retrieval**, with particular interests in
 **Large Language Models**, **Reinforcement Learning**, and **Multi-modal Learning**.
 Throughout my Ph.D., I have worked closely with [Dr. Alexandros Karatzoglou](https://scholar.google.co.uk/citations?user=j5u5iiYAAAAJ) and
 [Dr. Ioannis Arapakis](https://scholar.google.co.uk/citations?user=iTkgXpoAAAAJ) through long-term research collaboration and mentorship.
@@ -23,9 +23,9 @@ I have published 14+ papers in top-tier conferences and journals, including SIGI
 
 Research Interests
 ======
-My research lies at the intersection of artificial intelligence and information retrieval, with a focus on:
+My research interests include:
 
-- **Large Language Models**: Applying LLMs to recommendation and information retrieval
+- **Large Language Models**: Applying LLMs to recommendation
 - **Reinforcement Learning**: Decision transformers, multi-objective optimization, and policy exploration for recommender systems
 - **Personalization**: User preference modeling and personalized content generation
 - **Multi-modal Learning**: Cross-modal retrieval, video understanding, and multi-modal recommendation systems
